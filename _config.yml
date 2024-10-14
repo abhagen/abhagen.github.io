@@ -1,0 +1,9 @@
+title: "Your Name"
+email: "youremail@example.com"
+description: "Your academic personal website."
+baseurl: "" # leave this blank for a GitHub Pages site
+url: "https://yourusername.github.io" # your site's URL
+github_username: yourusername
+
+# Theme settings (optional)
+theme: minima
