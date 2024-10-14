@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Website
+# About Me
 
-Hi, I'm Alexander Bjerck Hagen, and this is my academic website. Here, you can find information about my research, teaching, and academic activities.
+Hi, I'm Alexander Bjerck Hagen. I am working as a Predoctoral Fellow at FAIR, the Norwegian School of Economics during the 24-25 academic year, as part of the Development Economics research group.
 
 ## Latest News
-This section will be updated with publications and academic activities.
+This section will be updated with any recent news.
