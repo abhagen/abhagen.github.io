@@ -5,9 +5,7 @@ title: About Me
 
 # About Me
 
-Hi, I'm Alexander Bjerck Hagen, a researcher in Development Economics. I am currently working as a Predoctoral Fellow at FAIR, the Norwegian School of Economics.
-
-## 
+Hi, I'm Alexander Bjerck Hagen. I am working as a Predoctoral Fellow at FAIR, the Norwegian School of Economics during the 24-25 academic, as part of the Development Economics research group.
 
 ## Education
 - **MPhil in Economics**, University of Oslo (2022-2024)
