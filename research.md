@@ -1,1 +1,4 @@
-placeholder
+---
+layout: default
+title: Research
+---
